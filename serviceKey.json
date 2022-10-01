@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pc-api-4849516339197507433-40",
+  "private_key_id": "86d61d4fd567e5714eafd206b1ba46d2f3826594",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCr6XTGGT3Gltpb\nOROO+Wtp32J1vaOSijeqNcMGdz0CPsu//u9pz1KNYQqQ9dDKysh+JqYztONNimpE\nYSnYVU5rRUwyA/rMOhdfTOmGy4768D1P0+HL/8Z74TY3xLOV2Ypg+eaFhX/eLM3W\ndX3awcr5z1R7KOs7ANkS6CSyTOazl/P+l1T5lR67USoPzU90uHqva/zBat+insYb\nNgm612hEko7uk/zTeGez7oDZjVxVkJXCGeXhQbLV44c08mgUAlp3WcLl0e/frILZ\n8ivBrsMUE7lo/0dpbJt3SOmD0kphjtGxmpo17czkVpViCfKAUqPhvOyWHwrHbrur\njVv0YuERAgMBAAECggEAA55rOcqpESphR9d8fioUH7CBtoKgCXMVPLpw08zERm0T\nJcREfsN2vyj6YOFP0ckG2JhQhNj2Ck6Th0N4BEi4GSF7uwzNkCmD5EVuoAqzxJFf\nP7QxNgsOaagCF8FGr4JFZl5fAtNehPXdUmT67yqHruO1U/oL85wZtbXDJKliQjMJ\nQoOoDijqtx3snx9BKFc9Zlv4WztYT4V4HtUE9Tg8NGaYXtHhhSagk6jBI3rWDScT\nsjDVHtuMlryWqbvBmC2rM2CDqWWa4zfRvlxgL45bCOxLKi+YSdoScDBrXHPN6r/B\njyEWMJ2BCFpoi0SwVTReQ7FuSwKMJXK4M/WkTKSx0QKBgQDS4wzPL8pMAVD0ffuk\n7nYVdAHLFMiK7zvbY/AXNdvwelINYonq9aujsh42cMi6LrGQoYCuPLQum7PZ0NdJ\nyyvh3jtN7tpyCHxZL4rHjvR8LZBZz0DngBU1CXS9bVPgsA5Dkw+DY1fv3byXYEch\n5WW0ss4F04MNp6jr4E+13b/L2QKBgQDQr/3mLRLkKcrQyOCBc22iJ+Ci3IS5w8Wz\n9xi1eJ854STyKzS7juCQLojm24NDUMzU/GCf6NbqrrfOfDqKlpoPzuhrfI3Cr7um\nz2LaFwJZ9jWrAUFXNyI+h+VbwUofrLUPC5LG9kU1bUKInuu6b0floYNisk8yzJKN\nf8a7ZAiT+QKBgQCFAyB5LbNy7QGatDucc6uXLGxVIu66ctpWLlqoyRfIPd6zAovq\n3rk7roTP4aM5i2oDx1nai/85xotRvx+LM9KhzAGrzhOKCUAlII9v/wLFsBd0Dfzq\nBydZJHW1ZNeayHC2vnLydB5q9HiXIeq7vmy/5Gd91UK7whwRapHcK9llQQKBgQC0\nIyacmM3Uy8p5fNxmgbfiIGAE1StwmvA+j43xn6R6NsFIlUkYmZV4f+LGvDdLVSTq\nuMvDXR6fR5/8CjoSRTvJZ4Yyujo4Eq99p0iiDviFpUTgTt4TJdFWfsHZ+Tg9rTxB\nN3FEc3J8Usr62YuLy+EY89lQybAZnoLmx6RJP2k0KQKBgQCY2YVQGghevaMn8WeC\nC89+d27vkOSuagy3xSkjYSt3HykiK/aIIcZzsbTmqU2CuWpBaLhwl/ugNuJgww/8\n8S8AyJceUmPCLyzt9bvShabLeFXOWKT4BQs0qVZGoqS/Bq/O7/U3D7mUivsykeeP\nwDg8jomT4xnzUCHCF04BioDhaQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "com-superstudiouniverse-quizy@pc-api-4849516339197507433-40.iam.gserviceaccount.com",
+  "client_id": "116286339878519411485",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/com-superstudiouniverse-quizy%40pc-api-4849516339197507433-40.iam.gserviceaccount.com"
+}
